@@ -1,6 +1,8 @@
 package main
 
-import "golang-basic/condition"
+import (
+	"golang-basic/collection"
+)
 
 
 func main()  {
@@ -9,5 +11,8 @@ func main()  {
 	// condition.GeneralSwitch()
 	// condition.MultipleCaseSwitch()
 	// condition.SwitchCaseLikeIfElse()
-	condition.SwithWithFallthrough()
+	// condition.SwithWithFallthrough()
+
+	// array, slice, and map
+	collection.ArrayCollection()
 }
