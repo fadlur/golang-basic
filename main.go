@@ -14,5 +14,7 @@ func main()  {
 	// condition.SwithWithFallthrough()
 
 	// array, slice, and map
-	collection.ArrayCollection()
+	// collection.ArrayCollection()
+	// collection.SliceCollection()
+	collection.MapCollection()
 }
